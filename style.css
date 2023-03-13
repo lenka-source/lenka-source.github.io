@@ -1,0 +1,34 @@
+h1,
+h2 {
+  text-align: center;
+  letter-spacing: 8px;
+  font-weight: 100;
+}
+h1 {
+  background-image: radial-gradient(rgba(213, 213, 213) -88%, transparent 60%);
+}
+#head {
+  background-image: url(ss22.jpg);
+  background-size: cover;
+}
+@font-face {
+  font-family: OpenSans-Light;
+  src: url("OpenSans-Light.ttf");
+}
+p {
+  font-family: "OpenSans-Light";
+}
+
+a {
+  color: black;
+  
+}
+
+a:hover {
+  text-decoration-line: none;
+  color: rgb(52, 153, 178);
+}
+
+.card:hover {
+  background-color: rgb(244, 244, 244);
+}
